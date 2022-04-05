@@ -1,1 +1,1 @@
-non empty
+Write a script that prints “Hello, World”
